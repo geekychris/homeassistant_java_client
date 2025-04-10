@@ -1,0 +1,102 @@
+[
+  {
+    "event": "*",
+    "listener_count": 1
+  },
+  {
+    "event": "logging_changed",
+    "listener_count": 6
+  },
+  {
+    "event": "entity_registry_updated",
+    "listener_count": 10
+  },
+  {
+    "event": "core_config_updated",
+    "listener_count": 8
+  },
+  {
+    "event": "homeassistant_start",
+    "listener_count": 1
+  },
+  {
+    "event": "homeassistant_stop",
+    "listener_count": 75
+  },
+  {
+    "event": "floor_registry_updated",
+    "listener_count": 2
+  },
+  {
+    "event": "label_registry_updated",
+    "listener_count": 4
+  },
+  {
+    "event": "homeassistant_started",
+    "listener_count": 8
+  },
+  {
+    "event": "device_registry_updated",
+    "listener_count": 5
+  },
+  {
+    "event": "category_registry_updated",
+    "listener_count": 1
+  },
+  {
+    "event": "homeassistant_final_write",
+    "listener_count": 2
+  },
+  {
+    "event": "homeassistant_close",
+    "listener_count": 9
+  },
+  {
+    "event": "component_loaded",
+    "listener_count": 4
+  },
+  {
+    "event": "user_removed",
+    "listener_count": 2
+  },
+  {
+    "event": "state_changed",
+    "listener_count": 7
+  },
+  {
+    "event": "alexa_media_relogin_required",
+    "listener_count": 1
+  },
+  {
+    "event": "alexa_media_relogin_success",
+    "listener_count": 1
+  },
+  {
+    "event": "zha_event",
+    "listener_count": 7
+  },
+  {
+    "event": "nodered",
+    "listener_count": 1
+  },
+  {
+    "event": "zwave_js_value_notification",
+    "listener_count": 1
+  },
+  {
+    "event": "service_registered",
+    "listener_count": 1
+  },
+  {
+    "event": "service_removed",
+    "listener_count": 1
+  },
+  {
+    "event": "area_registry_updated",
+    "listener_count": 1
+  },
+  {
+    "event": "tag_scanned",
+    "listener_count": 1
+  }
+]
