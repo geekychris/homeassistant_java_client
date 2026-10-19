@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="Homeassistant Java Client logo" width="180">
+</p>
+
 # Home Assistant Java API Client
 
 A comprehensive Java client library for interacting with the [Home Assistant](https://www.home-assistant.io/) REST API. This library provides a simple, intuitive interface for Java applications to communicate with Home Assistant servers.
